@@ -1,4 +1,16 @@
 aid: dangerous-discord-database
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/dangerous-discord-database.png
 name: Dangerous Discord Database
 description: "Database of malicious Discord accounts"
 url: https://discord.riverside.rocks/docs/index.php
