@@ -39,7 +39,6 @@ apis:
   - name: Dangerous Discord Database
     description: "Database of malicious Discord accounts"
     humanURL: https://discord.riverside.rocks/docs/index.php
-    baseURL: https://discord.riverside.rocks/docs/index.php
     tags:
       - Social
     properties:
